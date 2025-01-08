@@ -3,7 +3,7 @@
 - [Português Brasileiro](README-ptbr.md)
 </details>
 
-# Backend Brawl
+# Rinha de Backend
 This project was inspired by a community challenge that took place in August 2023.
 
 [Challenge](https://github.com/zanfranceschi/rinha-de-backend-2023-q3)
