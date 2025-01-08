@@ -26,7 +26,9 @@ The limitations must be distributed among all services in the Docker Compose set
 ---
 
 ## Objective of this project
-Since I didn't participate in the challenge, I now have the opportunity to use it as a study case to improve my knowledge of optimizations. Taking advantage of the official stress test available, we will follow these steps:
+Since I didn't participate in the challenge, I have the opportunity to use it as
+a study case to improve my knowledge of optimizations. Taking advantage of the 
+official stress test available, we will follow these steps:
 
 1. Create a minimal version of the API, as basic and simple as possible.
 2. Document the stress test results.
@@ -34,7 +36,9 @@ Since I didn't participate in the challenge, I now have the opportunity to use i
 4. Record and explain the technical decisions made for each version.
 
 ### Note
-My goal is not to create the "perfect" version but to demonstrate how to improve an API's performance step by step and how each technical decision affects the results.
+My goal is not to create the "perfect" version but to demonstrate how to improve 
+an API's performance step by step and how each technical decision affects the 
+results.
 
 ## Versions
 [Golang](https://github.com/mvinif/2023-q3-golang)
